@@ -1,0 +1,45 @@
+﻿Donor ID,Category ,Value,Type
+D_1,First donation,2,IgG Negative
+D_1,Second donation ,2,IgG Negative
+D_2,First donation,2,IgG Negative
+D_2,Second donation ,2,IgG Negative
+D_3,First donation,2,IgG Negative
+D_3,Second donation ,2,IgG Negative
+D_4,First donation,2.09,IgG Negative
+D_4,Second donation ,2.05,IgG Negative
+D_5,First donation,2,IgG Negative
+D_5,Second donation ,2,IgG Negative
+D_6,First donation,2,IgG Negative
+D_6,Second donation ,200,IgG Positive
+D_7,First donation,200,IgG Positive
+D_7,Second donation ,200,IgG Positive
+D_8,First donation,85.83,IgG Positive
+D_8,Second donation ,100.95,IgM Positive
+D_9,First donation,2.88,IgG Negative
+D_9,Second donation ,3.69,IgG Negative
+D_10,First donation,2,IgG Negative
+D_10,Second donation ,8.21,IgG Negative
+D_11,First donation,2.52,IgG Negative
+D_11,Second donation ,2,IgG Negative
+D_12,First donation,200,IgG Positive
+D_12,Second donation ,200,IgG Positive
+D_13,First donation,2,IgG Negative
+D_13,Second donation ,11.98,IgG Negative
+D_14,First donation,2,IgG Negative
+D_14,Second donation ,2,IgG Negative
+D_15,First donation,2,IgG Negative
+D_15,Second donation ,174.76,IgG Positive
+D_16,First donation,2,IgG Negative
+D_16,Second donation ,2,IgG Negative
+D_17,First donation,2,IgG Negative
+D_17,Second donation ,2,IgG Negative
+D_18,First donation,2,IgG Negative
+D_18,Second donation ,2,IgG Negative
+D_19,First donation,60.04,IgG Positive
+D_19,Second donation ,80.68,IgG Positive
+D_20,First donation,2,IgG Negative
+D_20,Second donation ,9.59,IgG Negative
+D_21,First donation,2,IgG Negative
+D_21,Second donation ,13.89,IgG Negative
+D_22,First donation,2,IgG Negative
+D_22,Second donation ,2,IgG Negative
