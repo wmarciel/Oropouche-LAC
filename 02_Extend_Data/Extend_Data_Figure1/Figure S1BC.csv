@@ -1,0 +1,7 @@
+Group,Location,Median,Q1,Q3,ymin,ymax
+Relative surveillance capacity,Brazil,0.2798,0.2149,0.4843,0.2149,0.4843
+Relative surveillance capacity,Amazonas,0.2507,0.2349,0.2697,0.2349,0.2697
+Relative surveillance capacity,Manaus,0.328,0.2311,0.5274,0.2311,0.5274
+Optimal travel time,Brazil,1.6022,0.5491,10.4467,0.5491,10.4467
+Optimal travel time,Amazonas,22.5408,11.4008,35.3261,11.4008,35.3261
+Optimal travel time,Manaus,2.9635,0.984,6.9917,0.984,6.9917
